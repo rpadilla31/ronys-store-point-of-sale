@@ -4,7 +4,10 @@ A system with a selling module that includes accurate computations, clear produc
 📱 Application Features
 
 🧮 Sales & Computation Page
-<img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/ceac8cd9-00c8-403a-8ce0-c2cb6f44437b" />
+<img width="1366" height="728" alt="image" src="h<img width="1077" height="628" alt="image" src="<img width="1078" height="635" alt="image" src="<img width="1070" height="625" alt="image" src="https://github.com/user-attachments/assets/511b0191-0600-4cb7-8385-d16eb4577f05" />
+" />
+" />
+" />
 
 The first page is used for selling products with automatic computations.
 Products are organized by categories. For example, when the Drinks category is selected, only drink products will be displayed.
@@ -17,7 +20,9 @@ Products are organized by categories. For example, when the Drinks category is s
 - All computations are handled automatically to ensure fast, accurate, and efficient transactions.
 
 ⏰ Product Expiration Management
-<img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/6ea8da84-9f69-4958-82e4-69a82e644022" />
+<img width="1366" height="728" alt="image" src="h<img width="1076" height="627" alt="image" src="<img width="1076" height="626" alt="image" src="https://github.com/user-attachments/assets/2ac670c7-58e3-4a1a-973e-0c0eadb1fee1" />
+" />
+" />
 
 
 
@@ -32,7 +37,9 @@ Features include:
 This helps prevent selling expired products and keeps inventory organized.
 
 📊 Sales Report
-<img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/687cdc3a-9df1-4b83-ab4a-6334e40a4f34" />
+<img width="1366" height="728" alt="image" src="<img width="1074" height="626" alt="image" src="https://github.com/user-attachments/assets/8ed80edd-bf02-432f-bf13-7f46fb039ee1" />
+()
+" />
 
 The third page displays the Sales Report, showing total sales and profit within a selected time range, such as:
 - Daily
