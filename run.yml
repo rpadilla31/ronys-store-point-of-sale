@@ -1,0 +1,35 @@
+name: Run POS App (CI)
+
+on:
+  workflow_dispatch:
+  push:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    env:
+      CI: "true"
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Debug - show files
+        run: |
+          echo "=== pwd ==="
+          pwd
+          echo "=== list files ==="
+          ls -la
+          echo "=== tree ==="
+          find . -maxdepth 3 -type f
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      - name: Debug - python version
+        run: python --version
+
+      - name: Run script
+        run: python sari_sari_pos.py
