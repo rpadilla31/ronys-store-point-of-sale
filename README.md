@@ -1,0 +1,1 @@
+# ronys-store-point-of-sale
